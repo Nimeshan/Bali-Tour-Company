@@ -36,8 +36,10 @@ nav {
   justify-content: flex-end;
   z-index: 1;
 }
-
-
+nav ul li {
+  display: inline-block; 
+  margin-right: 10px; 
+} 
 
 .nav__bar {
   list-style: none;
